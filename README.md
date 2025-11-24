@@ -35,41 +35,12 @@
 
 ---
 
-## ✨ **Featured Projects**
-
-### 🔹 **Zypher — CI/CD Pipeline Vulnerability Scanner**
-A security platform that scans CI/CD pipelines for misconfigurations, secrets exposure, and insecure workflows.
-
----
-
-### 🔹 **Iskole-LMS**
-Full Learning Management System for school-level education.
-
----
-
-### 🔹 **Mern-Blog App**
-A complete blog platform with authentication + CRUD operations.
-
----
-
-### 🔹 **Exam-ease**
-A quiz platform to create, take, and share quizzes.
-
----
-
 ## 🛠️ **Experience & Notable Work**
 - 🧪 Built automation tools & rule engines for security scanning  
 - 🎓 University-level full-stack & DevOps projects  
 - 🔍 TryHackMe Certifications – Cybersecurity fundamentals  
 - 🧑‍🤝‍🧑 Collaborative team experience through group projects  
 - 🔧 Regular GitHub contributor with (consistent) commit history  
-
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=AthharPro&theme=algolia&no-bg=true&no-frame=true](https://github-profile-trophy.vercel.app/?username=AthharPro&theme=algolia&no-bg=true&no-frame=true)" />
-</p>
 
 ---
 
@@ -87,7 +58,7 @@ A quiz platform to create, take, and share quizzes.
 
 
 ## 📫 **Let’s Connect**
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mohamed-athhar-19a5b3227/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:athharpro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://github.com/AthharPro"><img src="https://skillicons.dev/icons?i=github"/></a>
